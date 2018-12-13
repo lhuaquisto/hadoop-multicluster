@@ -4,7 +4,9 @@ This is an experimental Hadoop multi-cluster installed on the lab of my universi
 It has 5 nodes. One node is the master and the others nodes are the slaves. 
 
 •	Master	192.168.40.129
+
 •	Slave1	192.168.40.130
+
 •	Slave2	192.168.40.131
 •	Slave3	192.168.40.132
 •	Slave4	192.168.40.133
