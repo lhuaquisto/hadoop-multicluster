@@ -1,4 +1,5 @@
-# hadoop-multicluster
+# Setup Hadoop 2.9 Multi-node Cluster on Ubuntu 16.04 Virtual Machine 
+
 This is an experimental Hadoop multi-cluster installed on the lab of my university.
 It has 5 nodes. One node is the master and the others nodes are the slaves. 
 
